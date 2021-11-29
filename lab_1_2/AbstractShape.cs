@@ -14,7 +14,7 @@ namespace lab_1_2
 			set { shapeName = value; }
 		}
 		public  double[] Parameter
-		{
+		{  
 			get
 			{
 				return parameter;
