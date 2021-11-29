@@ -1,0 +1,15 @@
+D:\navch\univer\sem7\ООАП\Labs\lab_1_2\lab_1_2\bin\Debug\netcoreapp3.1\lab_1_2.exe
+D:\navch\univer\sem7\ООАП\Labs\lab_1_2\lab_1_2\bin\Debug\netcoreapp3.1\lab_1_2.deps.json
+D:\navch\univer\sem7\ООАП\Labs\lab_1_2\lab_1_2\bin\Debug\netcoreapp3.1\lab_1_2.runtimeconfig.json
+D:\navch\univer\sem7\ООАП\Labs\lab_1_2\lab_1_2\bin\Debug\netcoreapp3.1\lab_1_2.runtimeconfig.dev.json
+D:\navch\univer\sem7\ООАП\Labs\lab_1_2\lab_1_2\bin\Debug\netcoreapp3.1\lab_1_2.dll
+D:\navch\univer\sem7\ООАП\Labs\lab_1_2\lab_1_2\bin\Debug\netcoreapp3.1\lab_1_2.pdb
+D:\navch\univer\sem7\ООАП\Labs\lab_1_2\lab_1_2\obj\Debug\netcoreapp3.1\lab_1_2.csprojAssemblyReference.cache
+D:\navch\univer\sem7\ООАП\Labs\lab_1_2\lab_1_2\obj\Debug\netcoreapp3.1\lab_1_2.Form1.resources
+D:\navch\univer\sem7\ООАП\Labs\lab_1_2\lab_1_2\obj\Debug\netcoreapp3.1\lab_1_2.csproj.GenerateResource.cache
+D:\navch\univer\sem7\ООАП\Labs\lab_1_2\lab_1_2\obj\Debug\netcoreapp3.1\lab_1_2.AssemblyInfoInputs.cache
+D:\navch\univer\sem7\ООАП\Labs\lab_1_2\lab_1_2\obj\Debug\netcoreapp3.1\lab_1_2.AssemblyInfo.cs
+D:\navch\univer\sem7\ООАП\Labs\lab_1_2\lab_1_2\obj\Debug\netcoreapp3.1\lab_1_2.csproj.CoreCompileInputs.cache
+D:\navch\univer\sem7\ООАП\Labs\lab_1_2\lab_1_2\obj\Debug\netcoreapp3.1\lab_1_2.dll
+D:\navch\univer\sem7\ООАП\Labs\lab_1_2\lab_1_2\obj\Debug\netcoreapp3.1\lab_1_2.pdb
+D:\navch\univer\sem7\ООАП\Labs\lab_1_2\lab_1_2\obj\Debug\netcoreapp3.1\lab_1_2.genruntimeconfig.cache
