@@ -8,7 +8,7 @@ namespace lab_1_2
 	{
 		private string shapeName;
 		private double[] parameter;
-		public  string ShapeName
+		public  string ShapeName  
 		{
 			get { return shapeName; }
 			set { shapeName = value; }
